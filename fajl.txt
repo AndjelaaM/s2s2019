@@ -1,2 +1,1 @@
-s2s
-2019
+linija za konflikt na masteru
